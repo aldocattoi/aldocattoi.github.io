@@ -76,6 +76,13 @@ p {
 
 h1, h2, h3, h4 {
     font-family: lato, Helvetica, sans-serif;
+    letter-spacing: 0.0325rem;
+}
+
+h1 {
+    font-size: 3rem;
+    letter-spacing: 0.25rem;
+    transform: rotate(-5deg);
 }
 
 .highlight {
@@ -97,6 +104,13 @@ body {
     min-width:56.25rem;
 }
 
+header {
+    padding: 0.5rem 0rem 1rem 0rem;
+}
+
+nav {
+    margin-top: 3rem;
+}
 
 .main-section {
     display: grid;
