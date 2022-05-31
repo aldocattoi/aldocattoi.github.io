@@ -196,7 +196,7 @@ nav {
     border-bottom: 1px solid #28234b;
 }
 
-.button {
+button {
     background-color: red;
     border: none;
     color: antiquewhite;
