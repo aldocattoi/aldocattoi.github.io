@@ -195,3 +195,12 @@ nav {
     border-top: 1px solid #28234b;
     border-bottom: 1px solid #28234b;
 }
+
+.button {
+    background-color: red;
+    border: none;
+    color: antiquewhite;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+}
