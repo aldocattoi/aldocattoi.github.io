@@ -83,6 +83,10 @@ h1 {
     font-size: 3rem;
     letter-spacing: 0.25rem;
     transform: rotate(-5deg);
+
+}
+
+h1{
     text-align: center;
 }
 
