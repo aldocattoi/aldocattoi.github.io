@@ -197,22 +197,7 @@ nav {
 }
 
 
-
-.copyright {
-    float: left;
-    text-align: left;
- }
  
- .links {
-    float: right;
-    text-align: right;
- }
- 
- footer {
-     font-family: "roboto", Verdana, sans-serif;
-    
- }
-
  .expand {
     font-size: .25rem;
 }
