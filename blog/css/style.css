@@ -201,3 +201,17 @@ nav {
  .expand {
     font-size: .25rem;
 }
+
+footer {
+    font-family: "roboto", Verdana, sans-serif;
+}
+
+.copyright {
+    float: left;
+    text-align: left;
+}
+
+.links {
+    float: right;
+    text-align: right;
+}
