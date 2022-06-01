@@ -204,6 +204,7 @@ nav {
 
 footer {
     font-family: "roboto", Verdana, sans-serif;
+    display: inline-block;
 }
 
 .copyright {
