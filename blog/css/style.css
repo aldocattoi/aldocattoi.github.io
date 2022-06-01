@@ -205,16 +205,16 @@ nav {
 footer {
     font-family: "roboto", Verdana, sans-serif;
     font-size: 0.75rem;
-    text-align: center;
+    
 
 }
 
-.copyright {
+footer .copyright {
     float: left;
     text-align: left;
 }
 
-.links {
+footer .links {
     float: right;
     text-align: right;
 }
