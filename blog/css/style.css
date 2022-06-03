@@ -218,3 +218,8 @@ footer .links {
     float: right;
     text-align: right;
 }
+
+.blog {
+    letter-spacing: 0.25rem;
+    transform: rotate(-5deg);
+}
