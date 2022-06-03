@@ -209,17 +209,7 @@ footer {
 
 }
 
-footer .copyright {
-    float: left;
-    text-align: left;
-}
 
-footer .links {
-    float: right;
-    text-align: right;
-}
 
-.blog {
-    letter-spacing: 0.25rem;
-    transform: rotate(-5deg);
-}
+
+
